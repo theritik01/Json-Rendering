@@ -1,0 +1,17 @@
+.root {
+  margin: 20px;
+}
+
+.searchContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.searchIcon {
+  margin-right: 8px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
